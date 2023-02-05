@@ -4,3 +4,5 @@ union select  'low fat chocolate syrup', 2
 union select 'dietetic cheese', 2
 union select 'low sodium ketchup', 3
 union select 'new ingredient'
+
+--Warning: low calorie diets may be bad for your health
