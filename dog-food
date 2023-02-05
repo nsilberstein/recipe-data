@@ -1,0 +1,3 @@
+insert dogfood(FoodName)
+select 'biscuits'
+union select 'bones'
